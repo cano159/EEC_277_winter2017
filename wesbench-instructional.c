@@ -1412,7 +1412,7 @@ void runBenchmark(void) {
     //Buffer test
    // myAppState.doVBufSizeTest=1;
    // Texture test
-   myAppState.doTextureTest=1;
+  // myAppState.doTextureTest=1;
     
  /* if not iterating over tests, just execute once */
   if ((myAppState.doAreaTest == 0) && (myAppState.doVBufSizeTest == 0) && (myAppState.doTextureTest == 0))
